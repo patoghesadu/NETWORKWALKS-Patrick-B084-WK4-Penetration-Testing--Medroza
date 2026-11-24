@@ -1,5 +1,5 @@
-# NETWORKWALKS-RUTUJA-B083-WK4-PM-PENTEST-MEDIROZA
-> Week 4 Black-Box Penetration Testing Project | Networkwalks Cybersecurity Internship | B083
+# NETWORKWALKS-PATRICK-B084-WK4-PM-PENTEST-MEDIROZA
+> Week 4 Black-Box Penetration Testing Project | Networkwalks Cybersecurity Internship | B084
 
 
 # PENETRATION TESTING REPORT — MEDIROZA GENERAL HOSPITAL
